@@ -7,7 +7,7 @@
 ---
 
 ### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/hansani-fernando-8008a7274 https://www.linkedin.com/in/hansani-fernando-8008a7274?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYJ5a9N%2BDR6KK0a6UCBj68A%3D%3D))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/hansani-fernando-8008a7274] https://www.linkedin.com/in/hansani-fernando-8008a7274?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYJ5a9N%2BDR6KK0a6UCBj68A%3D%3D))  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/HansaniFernando)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imeshahansani2003@gmail.com)  
 
