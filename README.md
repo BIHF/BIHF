@@ -1,29 +1,36 @@
-# Hi there 👋, I'm Hansani Fernando 
+# Hi there 👋, I'm Hansani Fernando
 
-🎓 Undergraduate at **Sabaragamuwa University of Sri Lanka**  
-💻 Passionate about **IT Student**    
-📫 Reach me at: **imeshahansani2003@gmail.com**  
-
----
-
-### 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/hansani-fernando-8008a7274] https://www.linkedin.com/in/hansani-fernando-8008a7274?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BYJ5a9N%2BDR6KK0a6UCBj68A%3D%3D))  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/HansaniFernando)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imeshahansani2003@gmail.com)  
+🎓 Undergraduate at **Sabaragamuwa University of Sri Lanka**
+💻 Passionate about **IT Student**
+📫 Reach me at: **[imeshahansani2003@gmail.com](mailto:imeshahansani2003@gmail.com)**
 
 ---
 
-### 🛠️ Languages and Tools  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hansani-fernando-8008a7274)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge\&logo=facebook\&logoColor=white)](https://facebook.com/HansaniFernando)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:imeshahansani2003@gmail.com)
 
 ---
 
-### 📊 GitHub Stats  
+### 🛠️ Languages and Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BIHF&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BIHF&layout=compact&theme=default)  
 
